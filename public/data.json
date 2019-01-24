@@ -1,0 +1,304 @@
+{
+  "Presence_result": [
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "F0D7AA6EBEB6"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "18B28BCBC492A5EEFCEC2459B192B595D59BE798",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330481
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "DCBFE963D4E9"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "49544D06343B910CBE0F79A7FF382BDF7C6B7BD5",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526329880
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "DCBFE963A74C"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "906AEF903002E875582C50087ACF9ADC6462844A",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526329760
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "D4389C775DAC"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "23FB55AFB335491D03F1653B8D9B77B2BAC940E6",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526328049
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "CC61E587C957"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "5EC190046A2C9863D0C8BE6C2CBCC6ED5D2238A3",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330661
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "CC61E55A0A61"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "79144964FE136B31A6045E7D3D0A7D2B31232EEB",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330450
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "CC61E5536FDE"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "95FEAF2CEFE31340B932308CDA0622A5D6852756",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526329670
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "CC61E546F64D"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "916607D1E9FBE0C95709E8E73A486CA084054A08",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330450
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "CC61E5399FF6"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "6A198ADD86C592F8CA96F135A23E6190CBD522E5",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330661
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "90B0ED058E60"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "09C795B8B7E76D15DFD337C087C66B705EEEEC38",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330601
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "88797EAE14B3"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "62213122EAFE3FA7B5F44577D2E10A2317C3AA69",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330330
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "88797E9C02D8"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "EE4C1256D4A4470B82B21221CFF54A23A77AFAD1",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330362
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "84100D7F9F8D"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "3D57032A7EF97706CA9BC40C8CD75007B70CE23F",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526328198
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "60F1895C06EB"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "202AA6A23821FC6550F3AD48E698894631FA4E83",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330661
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "54EF92FC09FD"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "304406AF1B3D975D3F8D4DE43B122A9E9F3B0E24",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526329430
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "509EA7D5FE13"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "8010371F6C4254D22AB643AF1BB475F3DBCEA7E3",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330450
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "30074DE16D65"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "B2BFC531A830C0A0030CDDC86B1535B55F7F5499",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BB0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526328860
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "202D071E3D92"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "90A61CB7F9EE199F54BF6A7D45B0ADC04FA5316D",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526328049
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "008701C84E24"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "421613A5FCD61C963D8E48DAA2F3F741FB600019",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526330571
+    },
+    {
+      "msg": {
+        "sta_eth_mac": {
+          "addr": "00082222E7FB"
+        },
+        "associated": false,
+        "hashed_sta_eth_mac": "90D82B45467BA1BA402A6212A3611D31F6B81CFF",
+        "ap_name": "40:e3:d6:cb:d7:ba",
+        "radio_mac": {
+          "addr": "40E3D63D7BA0"
+        },
+        "target_type": "TARGET_TYPE_STATION"
+      },
+      "ts": 1526326517
+    }
+  ]
+}
